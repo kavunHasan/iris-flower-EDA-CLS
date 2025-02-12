@@ -67,9 +67,7 @@ seaborn
 scikit-learn
 ```
 
-## 🙌 Contributing
-Contributions are welcome! Feel free to fork the repository and create pull requests.
 
-## 📜 License
-This project is licensed under the MIT License.
+
+
 
